@@ -9,6 +9,7 @@ Terming = "5a1048b7-9ca6-4e8a-8e2e-1f932e78ac4e"
 
 [compat]
 Terming = "0.2"
+Crayons = "4.0"
 julia = "1.6"
 
 [extras]
